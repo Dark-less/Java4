@@ -1,5 +1,7 @@
 # Java4
+
 第五次实验
+
 一 实验目的
 
 掌握字符串String及其方法的使用
@@ -40,6 +42,7 @@
 6设计主函数，输出学生信息和作业处理情况
 
 四主要代码
+
 class Homework{
     public static StringBuffer HW(StringBuffer str1){
         StringBuffer str2 = new StringBuffer(str1);

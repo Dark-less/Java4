@@ -44,4 +44,8 @@ class Homework{
     }
     
 五实验结果
+
 ![image](https://github.com/Dark-less/Java4/blob/main/f130408064b18314f3b62242405b72f.png)
+
+六实验感想
+本次实验是java课程的最后一次实验，通过这一学期的学期，使我更加了解java这门语言，使我的编程经历更加丰富。感谢老师一个学期的指导！希望在以后的学习和工作中java能够一直陪伴我。
